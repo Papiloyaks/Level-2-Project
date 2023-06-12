@@ -1,0 +1,212 @@
+@media screen and (max-width: 475px) {
+    #div2 {
+        display: none;
+    }
+    #div3 {
+        height: 12vh;
+        flex-wrap: wrap;
+    }
+    #div3-1 {
+        width: 40%;
+    }
+    #paraDiv3 {
+        margin: 7px 0px 0px 20px;
+        font-size: 25px;
+    }
+    #imgDiv3 {
+        max-width: 10%;
+    } 
+    #div3-2 {
+        width: 90%;
+        margin: -7px 0px 0px 20px;
+        padding-top: 0px;
+    }
+    #div3Inp {
+        width: 70vw;
+        height: 5vh;
+        border-radius: 20px;
+    }
+    #imgDiv3-2 {
+        max-width: 12%;
+        margin-left: 10px;
+    }
+    #inpDiv3-2 {
+        width: 53vw;
+        height: 4.5vh;
+    }
+    ::placeholder {
+        font-size: 12px;
+    }
+    #btnDiv3 {
+        width: 24%;
+        height: 5vh;
+    }
+    #div3-3 {
+        margin: -65px 0px 0px -170px;
+    }
+    #btnDrop1-2 {
+        display: none;
+    }
+    #dropSpan {
+        display: none;
+    }
+    #imgDrop1-1 {
+        max-width: 55%;
+        margin-top: 0px;
+        margin-left: 30px;
+    }
+    #gridItem {
+        width: 100%;
+        overflow-x: scroll;
+    }
+    #gridItem:nth-child(1) {
+        height: 95vh;
+        flex-direction: column;
+    }
+    #flexItem1 {
+        width: 85vw;
+        margin: 0px;
+        padding: 0px;
+    }
+    #aFlex1 {
+        font-size: 15px;
+    }
+    #flexItem2 {
+        width: 85.5vw;
+    }
+    #imgFlex2 {
+        height: 40vh;
+    }
+    #flexItem3 {
+        display: none;
+    }
+    #gridItem:nth-child(2) {
+        height: 55vh;
+        padding-left: 10px;
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+    #card1 {
+        width: 20vw;
+    }
+    #imgCard1 {
+        width: 100%;
+    }
+    #grid3Body2 {
+        overflow-x: scroll;
+    }
+    #card2 {
+        width: 27vw;
+        height: 40vh;
+    }
+    #imgCard2 {
+        width: 100%;
+    }
+    #time1,#time2 {
+        width: 50vw;
+    }
+    #time3 {
+        display: none;
+    }
+    #h2T {
+        font-size: 20px;
+    }
+    #grid4Body2 {
+        overflow-y: scroll;
+    }
+    #card3 {
+        width: 27vw;
+    }
+    #grid5Body2 {
+        overflow-x: scroll;
+    }
+    #card6 {
+        width: 27vw;
+    }
+    #imgCard6 {
+        width: 100%;
+    }
+    #grid7Body2 {
+        overflow-x: scroll;
+    }
+    #grid8Body2 {
+        overflow-x: scroll;
+    }
+    #gridItem:nth-child(9) {
+        height: 73vh;
+        overflow-y: hidden;
+    }
+    #card9 {
+        width: 18.5vw;
+        height: 20vh;
+    }
+    #imgCard9 {
+        height: 12.5vh;
+    }
+    #grid10Body2 {
+        overflow-x: scroll;
+    }
+    #grid11Body2 {
+        overflow-x: scroll;
+    }
+    #grid12Body2 {
+        overflow-x: scroll;
+    }
+    #card12 {
+        width: 25vw;
+    }
+    #grid13Body2 {
+        overflow-x: scroll;
+    }
+    #gridItem:nth-child(14) {
+        overflow-x: scroll;
+    }
+    #grid15Body2 {
+        overflow-x: scroll;
+    }
+    #gridItem:nth-child(16) {
+        overflow-x: scroll;
+    }
+    #gridItem:nth-child(17) {
+        height: 58vh;
+        overflow-x: scroll;
+    }
+    #card17 {
+        width: 18.5vw;
+        height: 15vh;
+    }
+    #grid18Body2 {
+        overflow-x: scroll;
+    }
+    #grid19Body2 {
+        overflow-x: scroll;
+    }
+    #gridItem:nth-child(20) {
+        height: 48vh;
+    }
+    #grid20Body2 {
+        overflow-x: scroll;
+    }
+    #gridItem:nth-child(21) {
+        overflow: hidden;
+        height: 80vh;
+    }
+    #h3Footer1, #pFooter3, #pFooter4, #h3Footer2, #pFooter5, #pFooter6, #pFooter7, #h3Footer3, #pFooter8, #pFooter9 {
+        display: none;
+    }
+    #footer {
+        height: 85vh;
+    }
+    #gridItem2:nth-child(1) {
+        display: none;
+    }
+    #divFoot1-1 {
+        text-align: center;
+    }
+    #divFoot1 {
+        display: none;
+    }
+    #gridItem2:nth-child(3) {
+        display: none;
+    }
+}
